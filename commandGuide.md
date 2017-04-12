@@ -18,4 +18,4 @@ This file is the personal guide for running command on MAC.
 To access a file, run command `cd ~/file route`
 
 - pause execution: control + C
-- auto complete:“Tab"
+- auto complete:“Tab
